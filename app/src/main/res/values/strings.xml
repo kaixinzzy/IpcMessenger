@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IpcMessenger</string>
+    <string name="send">发送</string>
+    <string name="button">Button</string>
+</resources>
